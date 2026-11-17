@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+tests/UnityProject/
+tests/Results/
+*.log
+*.dll
+*.glb
